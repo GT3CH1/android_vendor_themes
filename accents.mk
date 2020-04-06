@@ -22,4 +22,9 @@ PRODUCT_PACKAGES += \
     AccentColorRedOverlay \
     AccentColorSpaceOverlay \
     AccentColorTealOverlay \
-    AccentColorYellowOverlay
+    AccentColorYellowOverlay \
+    AccentColoriOSRedOverlay \
+    AccentColoriOSDarkGrayOverlay \
+    AccentColoriOSGreenOverlay \
+    AccentColoriOSLightBlueOverlay \
+    AccentColoriOSYellowOverlay

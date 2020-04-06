@@ -207,7 +207,6 @@
         <font weight="700" style="normal">Ubuntu-Bold.ttf</font>
         <font weight="700" style="italic">Ubuntu-BoldItalic.ttf</font>
     </family>
-
     <alias name="ubuntu-medium" to="ubuntu" weight="500" />
     <alias name="ubuntu-semi-bold" to="ubuntu" weight="600" />
     <alias name="ubuntu-bold" to="ubuntu" weight="700" />
@@ -219,7 +218,18 @@
     <alias name="goudy" to="ubuntu" />
     <alias name="fantasy" to="ubuntu" />
     <alias name="ITC Stone Serif" to="ubuntu" />
-
+    <family name="segoeui">
+        <font weight="100" name="segoeui-light" style="light">SegoeUI.ttf</font>
+        <font weight="200" name="segoeui-medium" style="medium">SegoeUI.ttf</font>
+        <font weight="300" name="segoeui-normal" style="normal">SegoeUI.ttf</font>
+        <font weight="500" name="segoeui-semi-bold" style="semi-bold">SegoeUI.ttf</font>
+        <font weight="700" name="segoeui-bold" style="bold">SegoeUI.ttf</font>
+    </family>
+    <alias name="segoe ui" to="segoeui-normal" weight="300"/>
+    <alias name="segoe ui bold" to="segoeui-bold" weight="700" />
+    <alias name="segoe ui semi bold" to="segoeui-semi-bold" weight="500" />
+    <alias name="segoe ui light" to="segoeui-light" weight="100" />
+    <alias name="segoe ui medium" to="segoeui-medium" weight="200" />
     <family name="monospace">
         <font weight="400" style="normal">DroidSansMono.ttf</font>
     </family>
